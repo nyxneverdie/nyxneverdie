@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "nyxneverdie",
-  "seed": "#9EBEE0",
+  "seed": "#4B3D31",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -19,11 +19,11 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hi, Nyaaww~~ >//<",
+    "greeting": "Hi, Nyaaawww >///<",
     "name": "NyxOkkotsu",
-    "subtitle": "The Cutest Developer in the world >///<",
+    "subtitle": "The cutest programmer in the world >///<",
     "typing": true,
-    "avatarShape": "cookie12",
+    "avatarShape": "cookie",
     "chips": [
       {
         "icon": "location_on",
@@ -31,29 +31,29 @@
       },
       {
         "icon": "code",
-        "label": "Rust • Go • CatLang:3"
+        "label": "Rust • Go • Shell"
       }
     ]
   },
   "about": {
-    "title": "Who Am I? Nyaaww:3",
+    "title": "Who Am I Nyawww:3",
     "items": [
       {
         "icon": "code",
-        "label": "Developer But As a Hobby"
+        "label": "Programmer as a hobby"
       },
       {
-        "icon": "desktop_windows",
-        "label": "Currently Using Gentoo"
+        "icon": "brand:opensourceinitiative",
+        "label": "Open-Source Tools Maker"
       },
       {
-        "icon": "favorite",
-        "label": "I love everynyaann:3"
+        "icon": "brand:gentoo",
+        "label": "Linux And AI Enthussiast:3"
       }
     ]
   },
   "stack": {
-    "title": "What i can do?",
+    "title": "Tech stack",
     "groups": [
       {
         "title": "Main",
@@ -67,8 +67,8 @@
             "label": "Go"
           },
           {
-            "icon": "brand:gentoo",
-            "label": "Gentoo"
+            "icon": "brand:shell",
+            "label": "Shell"
           }
         ]
       },
@@ -80,12 +80,12 @@
             "label": "VScode"
           },
           {
-            "icon": "brand:vercel",
-            "label": "Vercel"
+            "icon": "brand:github",
+            "label": "Git"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:gentoo",
+            "label": "Gentoo As Daily Driver:3"
           }
         ]
       }
@@ -118,10 +118,6 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/nyxokkotsu"
-      },
-      {
         "icon": "brand:discord",
         "url": "https://discord.gg/Cp3qcU3g"
       },
@@ -132,6 +128,10 @@
       {
         "icon": "brand:buymeacoffee",
         "url": "https://buymeacoffee.com/nyxveilsyslog"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/nyxokkotsu"
       }
     ],
     "variant": "chip",
@@ -140,12 +140,6 @@
   },
   "buttons": {
     "items": [
-      {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
       {
         "icon": "book_2",
         "label": "All repositories",

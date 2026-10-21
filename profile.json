@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "login": "nyxneverdie",
+  "seed": "#9EBEE0",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, Nyaaww~~ >//<",
+    "name": "NyxOkkotsu",
+    "subtitle": "The Cutest Developer in the world >///<",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Indonesia"
+      },
+      {
+        "icon": "code",
+        "label": "Rust • Go • CatLang:3"
+      }
+    ]
+  },
+  "about": {
+    "title": "Who Am I? Nyaaww:3",
+    "items": [
+      {
+        "icon": "code",
+        "label": "Developer But As a Hobby"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "Currently Using Gentoo"
+      },
+      {
+        "icon": "favorite",
+        "label": "I love everynyaann:3"
+      }
+    ]
+  },
+  "stack": {
+    "title": "What i can do?",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:gentoo",
+            "label": "Gentoo"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:acode",
+            "label": "VScode"
+          },
+          {
+            "icon": "brand:vercel",
+            "label": "Vercel"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/nyxokkotsu"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/Cp3qcU3g"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@nyxaris._?"
+      },
+      {
+        "icon": "brand:buymeacoffee",
+        "url": "https://buymeacoffee.com/nyxveilsyslog"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}

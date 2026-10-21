@@ -8,9 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="What i can do?"></picture>
 
-<a href="https://github.com/nyxneverdie/Nyxium"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nyxium-dark.svg"><img src="assets/project-nyxium-light.svg" width="49%" alt="Nyxium"></picture></a>&nbsp;<a href="https://github.com/nyxneverdie/nyxneverdie"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nyxneverdie-dark.svg"><img src="assets/project-nyxneverdie-light.svg" width="49%" alt="nyxneverdie"></picture></a>
-
-<a href="https://github.com/nyxneverdie/gentoo-installer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gentoo-installer-dark.svg"><img src="assets/project-gentoo-installer-light.svg" width="49%" alt="gentoo-installer"></picture></a>
+<a href="https://github.com/nyxneverdie/nyxneverdie"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nyxneverdie-dark.svg"><img src="assets/project-nyxneverdie-light.svg" width="49%" alt="nyxneverdie"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

@@ -1,0 +1,170 @@
+{
+ "key": "2edecf4e",
+ "stars": 0,
+ "contributions": 19,
+ "repos": 3,
+ "followers": 0,
+ "languages": [
+  [
+   "JavaScript",
+   1503939
+  ],
+  [
+   "TypeScript",
+   476328
+  ],
+  [
+   "CSS",
+   39764
+  ],
+  [
+   "HTML",
+   1002
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 6,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 2
+ },
+ "pins": [
+  {
+   "name": "nyxneverdie",
+   "url": "https://github.com/nyxneverdie/nyxneverdie",
+   "text": "My Profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Nyxium",
+   "url": "https://github.com/nyxneverdie/Nyxium",
+   "text": "Developer-first workspace app insipred by ferdium",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "gentoo-installer",
+   "url": "https://github.com/nyxneverdie/gentoo-installer",
+   "text": "the automatic gentoo linux installer script",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "nyxneverdie",
+   "url": "https://github.com/nyxneverdie/nyxneverdie",
+   "text": "My Profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}

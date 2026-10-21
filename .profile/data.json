@@ -1,5 +1,5 @@
 {
- "key": "6bce6e7",
+ "key": "849c6f3d",
  "stars": 0,
  "contributions": 20,
  "repos": 3,
@@ -135,6 +135,24 @@
    "fork": false,
    "stars": 0,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "gentoo-installer",
+   "url": "https://github.com/nyxneverdie/gentoo-installer",
+   "text": "the automatic gentoo linux installer script",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Nyxium",
+   "url": "https://github.com/nyxneverdie/Nyxium",
+   "text": "Developer-first workspace app insipred by ferdium",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
    "topics": []
   }
  ],

@@ -1,25 +1,25 @@
 {
- "key": "3a87a626",
+ "key": "bec0d77f",
  "stars": 0,
- "contributions": 22,
+ "contributions": 23,
  "repos": 4,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   1503939
+   1660980
   ],
   [
    "TypeScript",
-   476328
+   1513600
   ],
   [
    "CSS",
-   39764
+   67863
   ],
   [
    "HTML",
-   1002
+   9606
   ]
  ],
  "days": [
@@ -99,7 +99,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 1,
     "day": 25,
     "today": true
    },
@@ -112,7 +112,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [
@@ -148,10 +148,10 @@
   {
    "name": "Ar-Risalah-Website",
    "url": "https://github.com/nyxneverdie/Ar-Risalah-Website",
-   "text": "This repo are included the exampe how i make this website",
+   "text": "This repo are included the example how i make this website",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "TypeScript",
    "topics": []
   },
   {

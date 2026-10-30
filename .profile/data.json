@@ -1,25 +1,25 @@
 {
- "key": "7deec2d8",
+ "key": "993360fc",
  "stars": 0,
- "contributions": 23,
- "repos": 4,
+ "contributions": 20,
+ "repos": 3,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   1660980
+   1503939
   ],
   [
    "TypeScript",
-   1513600
+   476328
   ],
   [
    "CSS",
-   67863
+   39764
   ],
   [
    "HTML",
-   9606
+   1002
   ]
  ],
  "days": [
@@ -87,7 +87,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 23,
     "today": false
    },
@@ -99,7 +99,7 @@
   ],
   [
    {
-    "c": 1,
+    "c": 0,
     "day": 25,
     "today": false
    },
@@ -165,15 +165,6 @@
   }
  ],
  "all": [
-  {
-   "name": "Ar-Risalah-Website",
-   "url": "https://github.com/nyxneverdie/Ar-Risalah-Website",
-   "text": "This repo are included the example how i make this website",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": []
-  },
   {
    "name": "Nyxium",
    "url": "https://github.com/nyxneverdie/Nyxium",

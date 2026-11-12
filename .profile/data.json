@@ -1,25 +1,29 @@
 {
- "key": "466b295f",
+ "key": "52246773",
  "stars": 0,
- "contributions": 20,
- "repos": 3,
+ "contributions": 28,
+ "repos": 6,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   1503939
+   2184510
   ],
   [
    "TypeScript",
    476328
   ],
   [
+   "Python",
+   179215
+  ],
+  [
    "CSS",
-   39764
+   44434
   ],
   [
    "HTML",
-   1002
+   11243
   ]
  ],
  "days": [
@@ -119,7 +123,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 8,
     "day": 12,
     "today": true
    },
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [
@@ -161,6 +165,33 @@
   }
  ],
  "all": [
+  {
+   "name": "portofolio",
+   "url": "https://github.com/nyxneverdie/portofolio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "buketbantul",
+   "url": "https://github.com/nyxneverdie/buketbantul",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ghlibproductions",
+   "url": "https://github.com/nyxneverdie/ghlibproductions",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
   {
    "name": "Nyxium",
    "url": "https://github.com/nyxneverdie/Nyxium",

@@ -1,17 +1,17 @@
 {
- "key": "b381e634",
+ "key": "4d247fe6",
  "stars": 0,
- "contributions": 28,
- "repos": 6,
+ "contributions": 34,
+ "repos": 7,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   2184510
+   2220462
   ],
   [
    "TypeScript",
-   476328
+   640407
   ],
   [
    "Python",
@@ -20,6 +20,10 @@
   [
    "CSS",
    44434
+  ],
+  [
+   "Go",
+   25413
   ],
   [
    "HTML",
@@ -128,7 +132,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 13,
     "today": true
    },
@@ -136,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 2
  },
  "pins": [
@@ -169,6 +173,15 @@
   }
  ],
  "all": [
+  {
+   "name": "nyxberg",
+   "url": "https://github.com/nyxneverdie/nyxberg",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
   {
    "name": "portofolio",
    "url": "https://github.com/nyxneverdie/portofolio",
